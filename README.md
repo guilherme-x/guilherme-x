@@ -13,4 +13,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-x&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
-<a style="margin-right:200px" href="https://icons8.com/icon/Pz213it3TQxp/linkedin"><img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/></a><a style="margin-right:200px" href="https://icons8.com/icon/Pz213it3TQxp/linkedin"><img src="https://img.icons8.com/plasticine/48/fa314a/gmail.png"/></a>
+<a style="margin-right:200px" href="https://www.linkedin.com/in/guilherme-xavier-developer"><img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/></a><a style="margin-right:200px" href="mailto:guilherme.xavierxs@gmail.com"><img src="https://img.icons8.com/plasticine/48/fa314a/gmail.png"/></a>
