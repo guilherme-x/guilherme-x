@@ -14,6 +14,4 @@
 
 ## Contact me
 <a style="margin-right:200px" target="_blank" href="https://www.linkedin.com/in/guilherme-xavier-developer"><img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/></a><a style="margin-right:200px" target="_blank" href="mailto:guilherme.xavierxs@gmail.com"><img src="https://img.icons8.com/plasticine/48/fa314a/gmail.png"/></a>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer>
 
-</script>
