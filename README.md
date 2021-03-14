@@ -10,5 +10,4 @@
 - ![Database](https://img.icons8.com/ios-filled/20/4a90e2/database.png) Database management
 - ![Linux](https://img.icons8.com/color/20/000000/linux.png) Linux Bash
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-x&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<div><img style="border-radius:18px;" src="https://i.ibb.co/kcdct1G/Meu-cart-o-de-visita.png"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-x&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
