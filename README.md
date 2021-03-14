@@ -1,4 +1,4 @@
-# Hi there, I'm [Guilherme](guilherme-x.github.io) 💜
+# Hi there, I'm [Guilherme](https://guilherme-x.github.io) 💜
 *I'm a Full Stack Developer* 👨‍💻
 > I've been studying and working hard to improve my coding skills using the best practices!
 
