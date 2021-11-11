@@ -15,6 +15,7 @@ Hi there, I'm <a href="https://guilherme-x.github.io"><strong>Guilherme</strong>
 - ![Linux](https://img.icons8.com/color/28/000000/linux.png) Linux Bash
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-x&theme=merko&show_icons=true&hide=issues)
+
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermex&layout=compact&theme=merko)
 
 ## Contact me
