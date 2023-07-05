@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://guilherme-x.github.io"><strong>Guilherme</strong>
 
 ## My best skills 
 - ![Elixir](https://i.postimg.cc/QdxqWP3n/elixir.png) Elixir
-- ![Phoenix](https://i.postimg.cc/4dTZWpwq/phoenix-28.png) Phoenix Framework
+- ![Phoenix](https://avatars.githubusercontent.com/u/6510388?s=28&v=4) Phoenix Framework
 - ![Node Js](https://img.icons8.com/windows/28/26e07f/node-js.png)  	Rest API's development with Node.js and Express
 - ![React js](https://img.icons8.com/color/28/4a90e2/react-native.png) Web Applications using React.js
 - ![mobile developmen](https://img.icons8.com/ios/28/4a90e2/android.png) Mobile Apps using React Native
