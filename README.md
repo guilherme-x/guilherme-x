@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://guilherme-x.github.io"><strong>Guilherme</strong>
 > I've been studying and working hard to improve my coding skills using the best practices!
 
 ## My best skills 
-- ![Elixir](https://i.postimg.cc/QdxqWP3n/elixir.png) Elixir
+- ![Elixir](https://github.com/guilherme-x/guilherme-x/assets/47876482/22ec5fa3-d78e-47ba-83e2-1c5a39333bf5) Elixir
 - ![Phoenix](https://avatars.githubusercontent.com/u/6510388?s=28&v=4) Phoenix Framework
 - ![Node Js](https://img.icons8.com/windows/28/26e07f/node-js.png)  	Rest API's development with Node.js and Express
 - ![React js](https://img.icons8.com/color/28/4a90e2/react-native.png) Web Applications using React.js
