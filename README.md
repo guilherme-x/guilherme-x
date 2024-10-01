@@ -1,23 +1,48 @@
-<h1 align="center">
-Hi there, I'm <a href="https://guilherme-x.github.io"><strong>Guilherme</strong></a> 💜
-</h1>
+# Guilherme Xavier
 
-*I'm a Full Stack Developer* 👨‍💻
-> I've been studying and working hard to improve my coding skills using the best practices!
+## Experienced Full Stack Developer | Elixir Specialist
 
-## My best skills 
-- ![Elixir](https://github.com/guilherme-x/guilherme-x/assets/47876482/22ec5fa3-d78e-47ba-83e2-1c5a39333bf5) Elixir
-- ![Phoenix](https://avatars.githubusercontent.com/u/6510388?s=28&v=4) Phoenix Framework
-- ![Node Js](https://img.icons8.com/windows/28/26e07f/node-js.png)  	Rest API's development with Node.js and Express
-- ![React js](https://img.icons8.com/color/28/4a90e2/react-native.png) Web Applications using React.js
-- ![mobile developmen](https://img.icons8.com/ios/28/4a90e2/android.png) Mobile Apps using React Native
-- ![Database](https://img.icons8.com/ios-filled/28/4a90e2/database.png) Database management
-- ![Linux](https://img.icons8.com/color/28/000000/linux.png) Linux Bash
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-xavier-developer)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:guilherme.xavierxs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://guilherme-x.github.io)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-x&theme=merko&show_icons=true&hide=issues,aa)
+---
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermex&layout=compact&theme=merko)
+### About Me
 
-## Contact me
-<a target="_blank" href="https://www.linkedin.com/in/guilherme-xavier-developer"><img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/></a><a style="margin-right:200px" target="_blank" href="mailto:guilherme.xavierxs@gmail.com"><img src="https://img.icons8.com/plasticine/48/fa314a/gmail.png"/></a>
+With over 5 years of experience in full stack development, including 3+ years of specialized work with Elixir, I am a dedicated and innovative developer committed to crafting efficient, scalable, and maintainable solutions. My expertise spans across various technologies and frameworks, allowing me to tackle complex challenges and deliver high-quality software.
 
+### Core Competencies
+
+- **Elixir & Phoenix Framework**: 3+ years of hands-on experience
+- **Full Stack Development**: 5+ years building comprehensive web applications
+- **Backend Development**: RESTful APIs with Node.js and Express
+- **Frontend Technologies**: React.js for dynamic web applications
+- **Mobile Development**: Cross-platform apps using React Native
+- **Database Management**: Proficient in designing and optimizing database structures
+- **DevOps**: Experienced with Linux environments and bash scripting
+
+### Technical Proficiencies
+
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Phoenix Framework](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenix&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### GitHub Statistics
+
+![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilherme-x&theme=dark&show_icons=true&hide=issues)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermex&layout=compact&theme=dark)
+
+### Professional Philosophy
+
+I am passionate about leveraging cutting-edge technologies to solve real-world problems. My approach combines technical expertise with a keen eye for best practices, ensuring that every project I undertake is not just functional, but also maintainable and scalable.
+
+---
+
+Feel free to reach out for collaborations or just a chat about technology and development!
