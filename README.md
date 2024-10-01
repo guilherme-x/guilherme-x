@@ -1,6 +1,6 @@
 # Guilherme Xavier
 
-## Experienced Full Stack Developer | Elixir Specialist
+## Full Stack Developer | Elixir Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-xavier-developer)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:guilherme.xavierxs@gmail.com)
